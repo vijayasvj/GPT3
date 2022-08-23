@@ -1,2 +1,2 @@
-streamlit-chat
+streamlit_chat
 streamlit_lottie
