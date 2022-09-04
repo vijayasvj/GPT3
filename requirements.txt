@@ -1,3 +1,4 @@
-streamlit_chat
-streamlit_lottie
 openai
+streamlit
+tensorflow
+streamlit_lottie
