@@ -3,3 +3,5 @@ streamlit
 tensorflow
 streamlit_lottie
 streamlit_chat
+random
+PIL
